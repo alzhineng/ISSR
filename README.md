@@ -5,4 +5,5 @@ Abstract：Open-Vocabulary Camouflaged Object Segmentation aims to segment camou
 Notably, the proposed re-ranker and modulator are jointly optimized in an iterative manner, forming a closed-loop refinement process that enables mutual guidance between semantic representations and spatial features. Through iterative updates, semantic context and spatial structure are progressively enhanced. Extensive experiments demonstrate that the proposed method significantly outperforms existing open-vocabulary methods and camouflaged object segmentation approaches. In particular, the proposed method achieves a 14.4% improvement in the cS_m metric compared with OVCoser.
 
 🔥 News
+
 2026-3-9: Preprint of the full paper will be released on arXiv.
